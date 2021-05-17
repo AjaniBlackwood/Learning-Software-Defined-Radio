@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.13">
+  <compound refid="classgr_1_1Blackwood__AdaptiveTime_1_1Adaptive__Time" kind="class"><name>gr::Blackwood_AdaptiveTime::Adaptive_Time</name>
+    <member refid="classgr_1_1Blackwood__AdaptiveTime_1_1Adaptive__Time_1a24e87512e2b66b021549003aa4eef4b3" kind="typedef"><name>sptr</name></member>
+    <member refid="classgr_1_1Blackwood__AdaptiveTime_1_1Adaptive__Time_1aa37aa64a8310243aa7e35ab1e1f332e2" kind="function"><name>make</name></member>
+  </compound>
+  <compound refid="namespacegr" kind="namespace"><name>gr</name>
+  </compound>
+  <compound refid="namespacegr_1_1Blackwood__AdaptiveTime" kind="namespace"><name>gr::Blackwood_AdaptiveTime</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="Adaptive__Time_8h" kind="file"><name>Adaptive_Time.h</name>
+  </compound>
+  <compound refid="api_8h" kind="file"><name>api.h</name>
+    <member refid="api_8h_1af700b0f571c15d682df13fb202128e7c" kind="define"><name>BLACKWOOD_ADAPTIVETIME_API</name></member>
+  </compound>
+  <compound refid="dir_baba24f6c5efb33b574d15f42ee0520b" kind="dir"><name>Blackwood_AdaptiveTime</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>include</name>
+  </compound>
+</doxygenindex>
