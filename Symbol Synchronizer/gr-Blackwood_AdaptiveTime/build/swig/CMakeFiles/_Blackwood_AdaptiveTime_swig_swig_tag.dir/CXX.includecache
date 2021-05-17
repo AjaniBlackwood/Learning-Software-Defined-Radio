@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ajani/sdr/gr-Blackwood_AdaptiveTime/build/swig/_Blackwood_AdaptiveTime_swig_swig_tag.cpp
+
