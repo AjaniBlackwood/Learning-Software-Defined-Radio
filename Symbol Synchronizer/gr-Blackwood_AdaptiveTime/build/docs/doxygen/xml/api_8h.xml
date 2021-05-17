@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="api_8h" kind="file" language="C++">
+    <compoundname>api.h</compoundname>
+    <includes local="no">gnuradio/attributes.h</includes>
+    <includedby refid="Adaptive__Time_8h" local="no">Adaptive_Time.h</includedby>
+    <incdepgraph>
+      <node id="13">
+        <label>gnuradio/attributes.h</label>
+      </node>
+      <node id="12">
+        <label>api.h</label>
+        <link refid="api_8h"/>
+        <childnode refid="13" relation="include">
+        </childnode>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="16">
+        <label>Adaptive_Time_impl.h</label>
+        <link refid="Adaptive__Time__impl_8h"/>
+      </node>
+      <node id="15">
+        <label>Adaptive_Time.h</label>
+        <link refid="Adaptive__Time_8h"/>
+        <childnode refid="16" relation="include">
+        </childnode>
+      </node>
+      <node id="14">
+        <label>api.h</label>
+        <link refid="api_8h"/>
+        <childnode refid="15" relation="include">
+        </childnode>
+      </node>
+    </invincdepgraph>
+      <sectiondef kind="define">
+      <memberdef kind="define" id="api_8h_1af700b0f571c15d682df13fb202128e7c" prot="public" static="no">
+        <name>BLACKWOOD_ADAPTIVETIME_API</name>
+        <initializer>__GR_ATTR_IMPORT</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/ajani/sdr/gr-Blackwood_AdaptiveTime/include/Blackwood_AdaptiveTime/api.h" line="31" column="10" bodyfile="/home/ajani/sdr/gr-Blackwood_AdaptiveTime/include/Blackwood_AdaptiveTime/api.h" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/ajani/sdr/gr-Blackwood_AdaptiveTime/include/Blackwood_AdaptiveTime/api.h"/>
+  </compounddef>
+</doxygen>
