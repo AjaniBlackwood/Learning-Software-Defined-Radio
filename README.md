@@ -1,2 +1,2 @@
 # Learning-Software-Defined-Radio
-This is some of the code I wrote and GRC files I built to practice SDR and digital communications.
+This includes some of the code I wrote as well as GRC files I built to practice SDR and digital communications.
